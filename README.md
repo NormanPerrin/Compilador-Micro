@@ -2,7 +2,8 @@ Compilador Micro
 ===========
 
 ## Descripción:
-Trabajo práctico de SSL del 2015
+Trabajo práctico de SSL del 2015.
+Parsea un fuente y verifica que esté correctamente sintáctica y semánticamente
 
 ## Compilar el compilador:
 (Con GCC instalado): `gcc -o compilador compilador.c`
@@ -15,4 +16,3 @@ Trabajo práctico de SSL del 2015
 - Las funciones válidas son `leer` y `escribir`
 - Las variables se declaran automáticamente
 - El único tipo de variable es entero
-Lo demás se entiende del ejemplo
